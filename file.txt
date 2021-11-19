@@ -1,6 +1,6 @@
 
 add changes here
-the empty string was here
+the information on this string is too valuable
 make something different here
 and here too
 
